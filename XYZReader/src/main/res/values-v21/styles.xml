@@ -24,7 +24,7 @@
     </style>
 
     <style name="Theme.Bacon.TextAppearanceLarge" parent="@style/TextAppearance.AppCompat.Large">
-        <item name="android:textColor">@color/theme_text_primary</item>
+        <item name="android:textColor">@color/theme_text_icons</item>
     </style>
 
     <style name="Theme.Bacon.TextAppearanceMedium" parent="@style/TextAppearance.AppCompat.Medium">
