@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-96b51d34b7b98e8e07d11ec5e9fc64c998187cb8.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-790c5eec16538c98397bf419161b9b099faa38b9.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-552dff110066526040c508c4f01397bfef4fd79f.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-52cd0fdf950e2c51723777c760d0b658a1609a9d.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-dc36689e2ccebccb9bd4a14eddc91257b6bb5950.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/picasso-2.5.2-aeb5da09394615da7b468fc1521c26fc49e6d7d4.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-95122125a06ec4df3d055d4451152214aecde51e.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-2b1075da4e6b7a62cacf67970ff539030807ea81.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-5735fd6d5b1e9de37c593f57f44bf6ea44fbacbb.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-41208c0ddba9073b29f6c37d0f7236997b3edd52.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-9f11f8d6d9689d9995e032b7355fb60c3c3a1e2b.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.0.1/d84613c7a568c57bab160fcb3d89107fac812437/okhttp-urlconnection-3.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84613c7a568c57bab160fcb3d89107fac812437">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.0.1-8a3148f14478cd23ddafc9f85770407fa93b878e.jar" />
+    </item>
+    <item
+        jar="/Users/hakim/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/hakim/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.0.1-9ac5b601b6c13939a8bfa22d3aad94eeaa3e7be5.jar" />
+    </item>
+
+</items>
