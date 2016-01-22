@@ -37,9 +37,7 @@ public class ArticleDetailFragment extends Fragment implements
     private long mItemId;
     private View mRootView;
 
-//    private View mPhotoContainerView;
     private ImageView mPhotoView;
-//    private boolean mIsCard = false;
 
     /**
      * Mandatory empty constructor for the fragment manager to instantiate the
@@ -64,7 +62,6 @@ public class ArticleDetailFragment extends Fragment implements
             mItemId = getArguments().getLong(ARG_ITEM_ID);
         }
 
-//        mIsCard = getResources().getBoolean(R.bool.detail_is_card);
         setHasOptionsMenu(true);
     }
 
@@ -90,7 +87,6 @@ public class ArticleDetailFragment extends Fragment implements
         activity.getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         mPhotoView = (ImageView) mRootView.findViewById(R.id.photo);
-//        mPhotoContainerView = mRootView.findViewById(R.id.photo_container);
 
         mRootView.findViewById(R.id.share_fab).setOnClickListener(new View.OnClickListener() {
             @Override
@@ -113,7 +109,6 @@ public class ArticleDetailFragment extends Fragment implements
 
         CollapsingToolbarLayout collapsingToolbarLayout =
                 (CollapsingToolbarLayout) mRootView.findViewById(R.id.collapsing_toolbar);
-//        TextView titleView = (TextView) mRootView.findViewById(R.id.article_title);
 //        TextView bylineView = (TextView) mRootView.findViewById(R.id.article_byline);
 //        bylineView.setMovementMethod(new LinkMovementMethod());
         TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
@@ -189,16 +184,5 @@ public class ArticleDetailFragment extends Fragment implements
     public void onLoaderReset(Loader<Cursor> cursorLoader) {
         mCursor = null;
         bindViews();
-    }
-
-    public int getUpButtonFloor() {
-//        if (mPhotoContainerView == null || mPhotoView.getHeight() == 0) {
-            return Integer.MAX_VALUE;
-//        }
-
-        // account for parallax
-//        return mIsCard
-//                ? (int) mPhotoContainerView.getTranslationY() + mPhotoView.getHeight()
-//                : mPhotoView.getHeight();
     }
 }
