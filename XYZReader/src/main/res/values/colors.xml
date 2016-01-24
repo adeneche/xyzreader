@@ -23,6 +23,8 @@
     <color name="theme_light_primary">#FFCCBC</color>
     <color name="theme_accent">#E040FB</color>
 
+    <color name="image_overlay">#6000</color>
+
     <color name="theme_text_icons">#FFFFFF</color>
     <color name="theme_text_primary">#212121</color>
     <color name="theme_text_secondary">#727272</color>
