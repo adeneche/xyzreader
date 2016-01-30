@@ -29,4 +29,6 @@
     <color name="theme_text_primary">#212121</color>
     <color name="theme_text_secondary">#727272</color>
     <color name="theme_divider">#B6B6B6</color>
+
+    <color name="subtitle">#6000</color>
 </resources>
